@@ -1,21 +1,35 @@
-👋 Hi, I'm Gajula Sumer – a passionate B.Tech student specializing in Artificial Intelligence and Machine Learning.
+Hi, I'm Gajula Sumer.
 
-💻 I enjoy building smart solutions and web applications. I'm currently working on real-world AI projects and love exploring the intersection of software development and machine learning.
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning. I'm passionate about AI, software development, and web technologies. I enjoy building real-world projects and contributing to open-source.
 
-🧠 Skills & Tools:
-Python, Java, C, HTML/CSS/JS, SQL, Git, VS Code, DSA, OOP, REST APIs
+Skills & Technologies
+Languages: Python, Java, C
+Web: HTML, CSS, JavaScript
+Databases: SQL
+Tools: Git, VS Code
+CS Concepts: Data Structures & Algorithms, OOP, REST APIs
+Projects
 
-🚀 Projects:
+* Medical Store Management System (C): Desktop application for inventory and sales with authentication. Improved efficiency by 30%.
+* Electricity Theft Detection: AI model using CNN and Random Forest. Achieved 91% accuracy on smart grid data. Tools used: Python, NumPy, Pandas, Scikit-learn, Matplotlib.
 
-🏥 Medical Store Management System (C) – Desktop app for efficient medicine inventory
+Currently Learning
 
-⚡ Electricity Theft Detection – CNN + Random Forest based detection system (91% accuracy)
+* Deep Learning Internship at CITD Hyderabad
+* Contributing to Telugu LLM
+* Exploring ML deployment with Streamlit and real datasets
 
-📚 Currently Learning: Deep Learning @ CITD Internship | Real-world AI | Telugu LLM
+Certifications
 
-📈 Always looking to grow through open-source, internships, and collaborative tech challenges.
+* Basic Python – Infosys Springboard (Mar 2025)
+* Java – HackerRank (Jul 2024)
+* HTML, CSS – Scaler (Feb & Apr 2025)
+* SQL – Infosys Springboard (Mar 2025)
 
-📫 Reach me:
-📍 Vikarabad, Telangana
-📧 ss99sumer@gmail.com
-🔗 https://www.linkedin.com/in/sumergajula/
+Contact Me
+Location: Vikarabad, Telangana
+Email: [ss99sumer@gmail.com](mailto:ss99sumer@gmail.com)
+LinkedIn: linkedin.com/in/sumergajula
+Resume: \[Upload your resume to GitHub and paste the link here]
+
+Open to internships, research opportunities, and AI/ML-focused collaborations.
