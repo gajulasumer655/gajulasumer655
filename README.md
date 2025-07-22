@@ -27,9 +27,9 @@ Certifications
 * SQL – Infosys Springboard (Mar 2025)
 
 Contact Me
-Location: Vikarabad, Telangana
-Email: [ss99sumer@gmail.com](mailto:ss99sumer@gmail.com)
-LinkedIn: linkedin.com/in/sumergajula
-Resume: \[Upload your resume to GitHub and paste the link here]
+* Location: Vikarabad, Telangana
+* Email: [ss99sumer@gmail.com](mailto:ss99sumer@gmail.com)
+* LinkedIn: linkedin.com/in/sumergajula
+* Resume: \[Upload your resume to GitHub and paste the link here]
 
 Open to internships, research opportunities, and AI/ML-focused collaborations.
