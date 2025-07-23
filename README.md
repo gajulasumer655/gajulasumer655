@@ -33,7 +33,7 @@ Contact Me
 * Location: Vikarabad, Telangana
 * Email: [ss99sumer@gmail.com](mailto:ss99sumer@gmail.com)
 * LinkedIn: linkedin.com/in/sumergajula
-* 📄 Resume: [View Here]([https://drive.google.com/file/d/1U0mJZLfgXOVC8hYTVk834ZWE8QZFzbbR/view?usp=sharing](https://drive.google.com/file/d/1FocnYZNdrP-CCbGvGYbXjBHurBwbhj5m/view?usp=sharing))
+* 📄 Resume: [View Here]([https://drive.google.com/file/d/1FocnYZNdrP-CCbGvGYbXjBHurBwbhj5m/view?usp=sharing])
 
 
 Open to internships, research opportunities, and AI/ML-focused collaborations.
